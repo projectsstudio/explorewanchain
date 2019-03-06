@@ -27,7 +27,7 @@ The following command will display SHA256 hash value on a Mac operating system.
 
 ## 3) Installation and launch
 
-Extract the file, run, and click the "LAUNCH APPLICATION" button to start the wallet
+Extract the file, run, wallet will begin to sync. Click the "LAUNCH APPLICATION" button to start the wallet
 
 ![](_media/Wanwallet_launch.PNG)
 
